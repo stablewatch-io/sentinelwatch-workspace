@@ -1,0 +1,7 @@
+# This repo only contains GitHub issues and discussions
+# No code or data files should be committed
+*
+!.github/
+!.gitignore
+!README.md
+!LICENSE
